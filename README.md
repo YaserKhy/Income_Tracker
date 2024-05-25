@@ -30,5 +30,5 @@ The program will allow users to input their transactions, categorize them, view 
   Implement support for multiple users, allowing each user to have their own set of transactions and reports.
 
 ## Team Members
-Najah Alsabi [GitHub](https://github.com/njahalshareif)\
-Yaser Alkhayyat [GitHub](https://github.com/YaserKhy)
+- Najah Alsabi [GitHub](https://github.com/njahalshareif)
+- Yaser Alkhayyat [GitHub](https://github.com/YaserKhy)
